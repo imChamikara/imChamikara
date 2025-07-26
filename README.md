@@ -1,4 +1,12 @@
-## Hi there 👋
+
+
+# 👋 Hi, I'm Chamikara
+- 🎓 Undergraduate in Management and IT @ University of Kelaniya
+- 💻 Learning C++, Python, and building console games
+- 🎮 Recently built: Tic Tac Toe Game in C++
+
+🔗 Check out my project: [Tic Tac Toe Game](https://github.com/imChamikara/tic-tac-toe-cpp)
+
 
 <!--
 **imChamikara/imChamikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
