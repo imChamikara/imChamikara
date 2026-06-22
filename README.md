@@ -107,7 +107,7 @@ To become a Cloud & DevOps Engineer specializing in cloud infrastructure, automa
 
 ## 🌐 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
+* LinkedIn: www.linkedin.com/in/imchamikara
 * GitHub: https://github.com/imChamikara
 
 ---
